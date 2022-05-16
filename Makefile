@@ -1,2 +1,2 @@
-CShell: CShell.c
+cshell: cshell.c
 	$(CC) -o $@ $^
